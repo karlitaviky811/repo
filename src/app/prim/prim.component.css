@@ -1,0 +1,28 @@
+
+head {
+	display:inline-block;
+	position: relative;
+}
+
+.logo{
+display:inline-block;
+ position: relative;
+ left: 900px;
+}
+
+
+.barra{
+	display: inline-block;
+	position: relative;
+	top:40px;
+	left:200px;
+	margin-top:none;
+}
+
+hr{
+	color :white;
+}
+
+hr{
+	color :white;
+}
